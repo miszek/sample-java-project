@@ -52,7 +52,6 @@ public class SampleJavaProject implements Runnable {
             new JCommander(new SampleJavaProject()).usage();
             System.exit(-1);
         }
-
         sjp.run();
     }
 

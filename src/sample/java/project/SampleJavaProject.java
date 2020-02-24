@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.Setter;
 
+//comment added to check git pull origin master command
 /**
  * The main class of the application. It contains the main() method,
  * the first method called.

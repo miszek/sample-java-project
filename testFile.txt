@@ -1,3 +1,11 @@
+
+third sentence:
+:qw
+
+B
+
+B
+B
 fisrt trial sentence
 second trial sentence
 trial of push command

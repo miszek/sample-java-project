@@ -1,4 +1,6 @@
-
+nowa linia wprowadzona
+git diff tria
+l
 third sentence:
 :qw
 

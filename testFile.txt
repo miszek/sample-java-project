@@ -1,3 +1,6 @@
+linia dodana w galezi firstBranch
+
+jeszcze nowsza linia
 nowa linia wprowadzona
 git diff tria
 l

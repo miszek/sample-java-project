@@ -1,2 +1,3 @@
 sentence to commit
-
+sentence in staging area
+sentence left in working directory

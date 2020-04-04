@@ -1,3 +1,5 @@
+linia dodana do testow merge
+
 linia dodana do wyprobowania NO fast forward merge
 
 linia dodana w galezi firstBranch
